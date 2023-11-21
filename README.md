@@ -1,2 +1,2 @@
-# scimba1
+# scrimba1
 revising js
